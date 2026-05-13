@@ -1,0 +1,7 @@
+History/
+__Previews/
+Project Logs*/
+Outputs*/
+*.zip
+*.log
+*.err
