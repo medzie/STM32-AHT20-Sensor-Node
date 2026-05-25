@@ -1,3 +1,4 @@
+![STM32 AHT20 Sensor Node Board Render](./docs/board_render.png)
 STM32 Environmental Sensor (AHT20)
 Overview
 
