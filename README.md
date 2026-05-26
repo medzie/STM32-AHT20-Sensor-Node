@@ -29,9 +29,9 @@ The hardware was designed in Altium Designer. Key design choices include:
 
 Project Structure
 
-    /Hardware - Altium Designer schematics and PCB layout files.
+    /hardware - Altium Designer schematics and PCB layout files.
 
-    /Firmware - Source code (C), including I2C drivers and peripheral initialization.
+    /software - Source code (C), including I2C drivers and peripheral initialization.
 
     /Docs - Datasheets and technical documentation.
 
