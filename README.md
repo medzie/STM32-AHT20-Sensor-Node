@@ -17,7 +17,11 @@ Key Features
 
 Hardware Design
 
-The hardware was designed in Altium Designer. Key design choices include:
+The hardware was designed in Altium Designer. 
+
+**[View Full Schematic (PDF)](Docs/schema.pdf)**
+
+Key design choices include:
 
     Voltage Regulation: AMS1117-3.3 (SOT-223) to provide stable power for the MCU and sensor.
 
